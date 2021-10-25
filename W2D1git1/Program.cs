@@ -11,6 +11,8 @@ namespace W2D1git1
         static void Main(string[] args)
         {
             Console.WriteLine("Helleo World");
+            Console.WriteLine("Helleo World");
+            Console.WriteLine("Helleo World");
 
             Console.ReadLine();
 
